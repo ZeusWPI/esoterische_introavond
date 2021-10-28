@@ -1,0 +1,1 @@
+go>to,the[LEFT>go,to]the<RIGHT+plus[one<increase]it>all[and.print>that]shit
