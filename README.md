@@ -82,7 +82,7 @@ Zeus
 
 ```
 (in) 11010 + 10
-(out) 1110
+(out) 11100
 ```
 
 ## 9. Schrijf of een programma of de haakjes in string gebalanceerd zijn, return 0 als alles klopt anders 1
