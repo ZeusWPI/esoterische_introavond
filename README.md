@@ -69,8 +69,8 @@ Zeus
 
 ## 7. Vervang elk voorkomen van macht in een tekst door ZeusWPI
 ```
-(in) macht organiseerd leuke activiteiten
-(out) ZeusWPI organiseerd leuke activiteiten
+(in) macht organiseert leuke activiteiten
+(out) ZeusWPI organiseert leuke activiteiten
 ```
 
 ## 8. Tel 2 binaire getallen op
@@ -82,7 +82,7 @@ Zeus
 
 ```
 (in) 11010 + 10
-(out) 1110
+(out) 11100
 ```
 
 ## 9. Schrijf of een programma of de haakjes in string gebalanceerd zijn, return 0 als alles klopt anders 1
