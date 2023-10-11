@@ -1,0 +1,3 @@
+Dim a As Integer
+Input "Mate", a
+Print a*100
