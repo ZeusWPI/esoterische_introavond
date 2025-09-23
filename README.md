@@ -179,6 +179,7 @@ O
 
 
 ### 14. Blad steen schaar bot
+|        | n |
 | ------ | - |
 | blad   | 1 |
 | steen  | 2 |
