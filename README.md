@@ -1,4 +1,3 @@
-
 Esoterische codenight 11/09
 ===
 
@@ -27,7 +26,7 @@ Zeus
 ...
 ```
 
-### 3. Neem een string als input en verander elke hoofdletter naar een kleine letter en vice versa
+### 3. Neem een string als input en verander elke hoofdletter naar een kleine letter en vice versa (de input bestaat alleen uit letters dus [A-Za-z])
 
 ```
 (in) ZeusWPI
@@ -44,39 +43,24 @@ Zeus
 (out) 3
 ```
 
-### 5. Reken uit hoeveel mg. caffeine er in _n_ flessen mate van 50cl zit
+### 5. Encrypt/decrypt text adhv [ROT13](https://en.wikipedia.org/wiki/ROT13)
 ```
-(in) 1
-(out) 100
-```
-
-```
-(in) 9
-(out) 900
+(in) Zeus WPI
+(out) Mrhf JCV
 ```
 
-### 6. Print de eerste 10 priemgetallen
-
 ```
-2
-3
-5
-7
-11
-13
-17
-19
-23
-29
+(in) Mrhf JCV
+(out) Zeus WPI
 ```
 
-### 7. Vervang elk voorkomen van WiNa in een tekst door ZeusWPI
+### 6. Vervang elk voorkomen van WiNa in een tekst door ZeusWPI
 ```
 (in) WiNa organiseert leuke activiteiten
 (out) ZeusWPI organiseert leuke activiteiten
 ```
 
-### 8. Check of een woord een palindroom is (negeer spaties)
+### 7. Check of een woord een palindroom is (negeer spaties)
 
 ```
 (in) legovogel
@@ -89,21 +73,50 @@ Zeus
 (out) OK
 ```
 
-### 9. Tel 2 binaire getallen op
+### 10. Geef voor een string de brainfuck code die deze string print
+```
+(in) Hi
+(out)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.>
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
+```
+
+### 11. Implementeer het `head` unix commando
+Dit programma print de eerste 10 lijnen van de input
 
 ```
-(in) 101 + 10
-(out) 111
-```
-
-```
-(in) 11010 + 10
-(out) 11100
+(in)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+(out)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
 ```
 
 ## Mediocre
 
-### 10. Gok het juiste getal tussen 1 en 100
+### 12. Gok het juiste getal tussen 1 en 100
 
 ```
 (in) 50
@@ -116,7 +129,7 @@ Zeus
 (out) Correct
 ```
 
-### 11. Fizzbuzz! Print alle getallen van 1 - 100. Is het deelbaar door 3 print Fizz, deelbaar door 5 Buzz en deelbaar door beiden Fizzbuzz
+### 12. Fizzbuzz! Print alle getallen van 1 - 100. Is het deelbaar door 3 print Fizz, deelbaar door 5 Buzz en deelbaar door beiden Fizzbuzz
 
 ```
 1
@@ -127,9 +140,63 @@ Buzz
 ...
 ```
 
+### 13. Sorteer een lijst
+Sorteer een lijst met een algorithme naar keuze
+```
+(in)
+K
+O
+I
+H
+D
+M
+E
+C
+N
+J
+G
+L
+A
+B
+F
+(out)
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+```
+
+
+### 14. Blad steen schaar bot
+| ------ | - |
+| blad   | 1 |
+| steen  | 2 |
+| schaar | 3 |
+
+Tip: geef in het begin van het programma een seed mee als random source
+
+### 15. Bereken de grootste gemene deler van 2 getallen
+
+```
+(in) 8 12
+(out) 4
+```
+
+
 ## Advanced
 
-### 12. Schrijf of een programma of de haakjes in string gebalanceerd zijn, return 0 als alles klopt anders 1
+### 16. Schrijf of een programma of de haakjes in string gebalanceerd zijn, return 0 als alles klopt anders 1
 gebalanceerd: `(a[bc])`
 ongebalanceerd:`(a[)bc]`
 
@@ -143,7 +210,17 @@ ongebalanceerd:`(a[)bc]`
 (out) 1
 ```
 
-### 13. Maak een brainfuck-interpreter in een andere esoterische taal
+### 17. Schrijf een tic-tac-toe spel
+### 18. Base64 encoder
+```
+(in) Zeus WPI
+(out) WmV1cyBXUEk=
+```
+
+### 19. Maak een brainfuck-interpreter in een andere esoterische taal
+### 20. Polygolot
+Kies 2 esotherische talen naar keuze en 2 challenges naar keuze.
+Schrijf een programma dat geldig is in beide talen en ook beide challenges correct uitvoert.
 
 
 # Talen
@@ -154,7 +231,6 @@ ongebalanceerd:`(a[)bc]`
 * Maze (++)
 * Shakespeare (++)
 * Rockstar (++)
-* BASIC (+)
 * Javagony (+) (Java, maar met gelimiteerde control-flow, is geldige standaard java code)
 * Piet (+++++)
 
@@ -182,7 +258,6 @@ ongebalanceerd:`(a[)bc]`
 - RCPU: roep heel luid "JASPER WTF IS DIT"
 - Shakespeare: https://tio.run/#spl
 - Rockstar: (niet online) https://github.com/dylanbeattie/rockstar
-- BASIC: https://www.jdoodle.com/execute-freebasic-online
 - Stutter: roep heel luid "JASPER DIT IS SHIT"
 - Befunge: http://www.quirkster.com/iano/js/befunge.html
 - Argh! http://argh.sha-bang.de/
