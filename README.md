@@ -227,34 +227,46 @@ Schrijf een programma dat geldig is in beide talen en ook beide challenges corre
 # Talen
 
 * [Brainfuck](https://esolangs.org/wiki/Brainfuck) (+++)
-    - online: https://copy.sh/brainfuck/
-    - compile: https://github.com/FKD13/brainfuck-transpiler
-    - compile naar RCPU: https://github.com/redfast00/rcpu_compiler
-* Functio (+++)
+  - online: https://copy.sh/brainfuck/
+  - online: https://www.nayuki.io/page/brainfuck-interpreter-javascript
+  - compile: https://github.com/FKD13/brainfuck-transpiler
 * [Whitespace](https://esolangs.org/wiki/Whitespace) (+++++)
-    - https://www.jdoodle.com/execute-whitespace-online
+  - online: https://naokikp.github.io/wsi/whitespace.html
+  - online: https://www.jdoodle.com/execute-whitespace-online
 * [Maze](https://esolangs.org/wiki/Maze) (++)
-    - niet online, wel amazing: https://github.com/olls/maze-interpreter-v2
+  - interpreter (niet online, wel amazing): https://github.com/olls/maze-interpreter-v2
 * [Shakespeare](https://esolangs.org/wiki/Shakespeare) (++)
-    - https://tio.run/#spl
+  - https://tio.run/#spl
 * [Rockstar](https://esolangs.org/wiki/Rockstar) (++)
-    - niet online: https://github.com/dylanbeattie/rockstar
+  - https://github.com/dylanbeattie/rockstar?tab=readme-ov-file#implementations
+  - online: https://codewithrockstar.com/online
 * [Javagony](https://esolangs.org/wiki/Javagony) (+) (Java, maar met gelimiteerde control-flow, is geldige standaard java code)
 * [Piet](https://esolangs.org/wiki/Piet) (+++++)
 
 <details>
-  <summary>Previous Languages</summary>
+  <summary>Vorige talen</summary>
     
   * RCPU (++), maar kinda lastig om op te zetten (git en Python moeten geinstalleerd zijn, niet getest op Windows) (zie https://github.com/redfast00/RCPU)
+    - compile Brainfuck naar RCPU: https://github.com/redfast00/rcpu_compiler
   * Stutter (+++, geen idee of het werkt, https://github.com/redfast00/stutter))
   * Sd (moeilijker dan brainfuck)
+    - Sd: (niet online): https://gist.github.com/urbanangel/7cd8ed849e6faa4e53434b384c4a09a8
   * JSFuck (++++)
   * Befunge (++++)
   * Argh! (+++)
+  * Functio (+++)
+
 
 ## Hoe dingen uitvoeren
 
 - Sd: (niet online): https://gist.github.com/urbanangel/7cd8ed849e6faa4e53434b384c4a09a8
+- Brainfuck:
+  - online: https://www.nayuki.io/page/brainfuck-interpreter-javascript
+  - online: https://copy.sh/brainfuck/
+-
+
+## Hoe dingen uitvoeren -- oud
+
 - JSFuck: (moet je de javascript nog wel zelf runnen :) ): http://codertab.com/JsUnFuck
 - RCPU: roep heel luid "JASPER WTF IS DIT"
 - Rockstar: 
