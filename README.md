@@ -225,14 +225,21 @@ Schrijf een programma dat geldig is in beide talen en ook beide challenges corre
 
 # Talen
 
-* Brainfuck (+++)
+* [Brainfuck](https://esolangs.org/wiki/Brainfuck) (+++)
+    - online: https://copy.sh/brainfuck/
+    - compile: https://github.com/FKD13/brainfuck-transpiler
+    - compile naar RCPU: https://github.com/redfast00/rcpu_compiler
 * Functio (+++)
-* Whitespace (+++++)
-* Maze (++)
-* Shakespeare (++)
-* Rockstar (++)
-* Javagony (+) (Java, maar met gelimiteerde control-flow, is geldige standaard java code)
-* Piet (+++++)
+* [Whitespace](https://esolangs.org/wiki/Whitespace) (+++++)
+    - https://www.jdoodle.com/execute-whitespace-online
+* [Maze](https://esolangs.org/wiki/Maze) (++)
+    - niet online, wel amazing: https://github.com/olls/maze-interpreter-v2
+* [Shakespeare](https://esolangs.org/wiki/Shakespeare) (++)
+    - https://tio.run/#spl
+* [Rockstar](https://esolangs.org/wiki/Rockstar) (++)
+    - niet online: https://github.com/dylanbeattie/rockstar
+* [Javagony](https://esolangs.org/wiki/Javagony) (+) (Java, maar met gelimiteerde control-flow, is geldige standaard java code)
+* [Piet](https://esolangs.org/wiki/Piet) (+++++)
 
 <details>
   <summary>Previous Languages</summary>
@@ -243,23 +250,16 @@ Schrijf een programma dat geldig is in beide talen en ook beide challenges corre
   * JSFuck (++++)
   * Befunge (++++)
   * Argh! (+++)
-</details>
 
 ## Hoe dingen uitvoeren
 
-- Brainfuck:
-    - online: https://copy.sh/brainfuck/
-    - compile: https://github.com/FKD13/brainfuck-transpiler
-    - compile naar RCPU: https://github.com/redfast00/rcpu_compiler
 - Sd: (niet online): https://gist.github.com/urbanangel/7cd8ed849e6faa4e53434b384c4a09a8
-- Whitespace: https://www.jdoodle.com/execute-whitespace-online
-- Maze: (niet online, wel amazing): https://github.com/olls/maze-interpreter-v2
 - JSFuck: (moet je de javascript nog wel zelf runnen :) ): http://codertab.com/JsUnFuck
 - RCPU: roep heel luid "JASPER WTF IS DIT"
-- Shakespeare: https://tio.run/#spl
-- Rockstar: (niet online) https://github.com/dylanbeattie/rockstar
+- Rockstar: 
 - Stutter: roep heel luid "JASPER DIT IS SHIT"
 - Befunge: http://www.quirkster.com/iano/js/befunge.html
 - Argh! http://argh.sha-bang.de/
+</details>
 
 Kijk ook eens op [esolangs](https://esolangs.org/wiki/Language_list) of [tio.run](https://tio.run) voor andere talen.
