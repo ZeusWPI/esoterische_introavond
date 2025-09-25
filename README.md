@@ -256,23 +256,6 @@ Schrijf een programma dat geldig is in beide talen en ook beide challenges corre
   * Argh! (+++)
   * Functio (+++)
 
-
-## Hoe dingen uitvoeren
-
-- Sd: (niet online): https://gist.github.com/urbanangel/7cd8ed849e6faa4e53434b384c4a09a8
-- Brainfuck:
-  - online: https://www.nayuki.io/page/brainfuck-interpreter-javascript
-  - online: https://copy.sh/brainfuck/
--
-
-## Hoe dingen uitvoeren -- oud
-
-- JSFuck: (moet je de javascript nog wel zelf runnen :) ): http://codertab.com/JsUnFuck
-- RCPU: roep heel luid "JASPER WTF IS DIT"
-- Rockstar: 
-- Stutter: roep heel luid "JASPER DIT IS SHIT"
-- Befunge: http://www.quirkster.com/iano/js/befunge.html
-- Argh! http://argh.sha-bang.de/
 </details>
 
 Kijk ook eens op [esolangs](https://esolangs.org/wiki/Language_list) of [tio.run](https://tio.run) voor andere talen.
