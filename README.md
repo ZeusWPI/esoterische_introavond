@@ -73,7 +73,7 @@ Zeus
 (out) OK
 ```
 
-### 10. Geef voor een string de brainfuck code die deze string print
+### 8. Geef voor een string de brainfuck code die deze string print
 ```
 (in) Hi
 (out)
@@ -81,7 +81,7 @@ Zeus
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
 ```
 
-### 11. Implementeer het `head` unix commando
+### 9. Implementeer het `head` unix commando
 Dit programma print de eerste 10 lijnen van de input
 
 ```
@@ -116,7 +116,7 @@ Dit programma print de eerste 10 lijnen van de input
 
 ## Mediocre
 
-### 12. Gok het juiste getal tussen 1 en 100
+### 10. Gok het juiste getal tussen 1 en 100
 
 ```
 (in) 50
@@ -129,7 +129,7 @@ Dit programma print de eerste 10 lijnen van de input
 (out) Correct
 ```
 
-### 12. Fizzbuzz! Print alle getallen van 1 - 100. Is het deelbaar door 3 print Fizz, deelbaar door 5 Buzz en deelbaar door beiden Fizzbuzz
+### 11. Fizzbuzz! Print alle getallen van 1 - 100. Is het deelbaar door 3 print Fizz, deelbaar door 5 Buzz en deelbaar door beiden Fizzbuzz
 
 ```
 1
@@ -140,7 +140,7 @@ Buzz
 ...
 ```
 
-### 13. Sorteer een lijst
+### 12. Sorteer een lijst
 Sorteer een lijst met een algorithme naar keuze
 ```
 (in)
@@ -178,7 +178,7 @@ O
 ```
 
 
-### 14. Blad steen schaar bot
+### 13. Blad steen schaar bot
 |        | n |
 | ------ | - |
 | blad   | 1 |
@@ -187,7 +187,7 @@ O
 
 Tip: geef in het begin van het programma een seed mee als random source
 
-### 15. Bereken de grootste gemene deler van 2 getallen
+### 14. Bereken de grootste gemene deler van 2 getallen
 
 ```
 (in) 8 12
@@ -197,7 +197,7 @@ Tip: geef in het begin van het programma een seed mee als random source
 
 ## Advanced
 
-### 16. Schrijf of een programma of de haakjes in string gebalanceerd zijn, return 0 als alles klopt anders 1
+### 15. Schrijf of een programma of de haakjes in string gebalanceerd zijn, return 0 als alles klopt anders 1
 gebalanceerd: `(a[bc])`
 ongebalanceerd:`(a[)bc]`
 
@@ -211,15 +211,15 @@ ongebalanceerd:`(a[)bc]`
 (out) 1
 ```
 
-### 17. Schrijf een tic-tac-toe spel
-### 18. Base64 encoder
+### 16. Schrijf een tic-tac-toe spel
+### 17. Base64 encoder
 ```
 (in) Zeus WPI
 (out) WmV1cyBXUEk=
 ```
 
-### 19. Maak een brainfuck-interpreter in een andere esoterische taal
-### 20. Polygolot
+### 18. Maak een brainfuck-interpreter in een andere esoterische taal
+### 19. Polygolot
 Kies 2 esotherische talen naar keuze en 2 challenges naar keuze.
 Schrijf een programma dat geldig is in beide talen en ook beide challenges correct uitvoert.
 
