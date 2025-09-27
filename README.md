@@ -69,7 +69,7 @@ Zeus
 (in) ZeusWPI
 (out) NEE
 
-(in) Step on no pets
+(in) step on no pets
 (out) OK
 ```
 
@@ -129,7 +129,7 @@ Dit programma print de eerste 10 lijnen van de input
 (out) Correct
 ```
 
-### 11. Fizzbuzz! Print alle getallen van 1 - 100. Is het deelbaar door 3 print Fizz, deelbaar door 5 Buzz en deelbaar door beiden Fizzbuzz
+### 11. Fizzbuzz! Print alle getallen van 1 - 100. Is het deelbaar door 3 print Fizz, deelbaar door 5 Buzz en deelbaar door beiden FizzBuzz
 
 ```
 1
