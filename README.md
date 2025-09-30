@@ -1,12 +1,15 @@
-Esoterische codenight 11/09
+<!-- Esoterische codenight 11/09
 ===
-
+-->
 # Esoterische & Frustrerende programmeertalenavond
+<!--
 Oplossingen voor de Esoterische Introavond (event 2024)
 
 Stel, je naam is fred en je lost de eerste challenge op in BrainFuck, dan kan je een PR maken die een file `<jaar>/1/fred.bf` heet waarin je oplossing zit.
-
+-->
 # Challenges
+
+[Instructies om op het scoreboard te komen](https://git.zeus.gent/ZeusWPI/challenge_scoreboard/src/branch/main/README.md)
 
 ## Beginners
 
@@ -226,24 +229,28 @@ Schrijf een programma dat geldig is in beide talen en ook beide challenges corre
 
 # Talen
 
-* [Brainfuck](https://esolangs.org/wiki/Brainfuck) (+++)
+🍋 = _ondersteund door het scoreboardsysteem_
+
+* [Brainfuck](https://esolangs.org/wiki/Brainfuck) (+++) 🍋
   - online: https://copy.sh/brainfuck/
   - online: https://www.nayuki.io/page/brainfuck-interpreter-javascript
   - compile: https://github.com/FKD13/brainfuck-transpiler
-* [Whitespace](https://esolangs.org/wiki/Whitespace) (+++++)
+* [Whitespace](https://esolangs.org/wiki/Whitespace) (+++++) 
   - online: https://naokikp.github.io/wsi/whitespace.html
   - online: https://www.jdoodle.com/execute-whitespace-online
-* [Maze](https://esolangs.org/wiki/Maze) (++)
+* [Maze](https://esolangs.org/wiki/Maze) (++) 🍋
   - interpreter (niet online, wel amazing): https://github.com/olls/maze-interpreter-v2
-* [Shakespeare](https://esolangs.org/wiki/Shakespeare) (++)
+* [Shakespeare](https://esolangs.org/wiki/Shakespeare) (++) 🍋*
   - https://tio.run/#spl
-* [Rockstar](https://esolangs.org/wiki/Rockstar) (++)
+* [Rockstar](https://esolangs.org/wiki/Rockstar) (++) 🍋
   - https://github.com/dylanbeattie/rockstar?tab=readme-ov-file#implementations
   - online: https://codewithrockstar.com/online
-* [Chicken](https://esolangs.org/wiki/Chicken) (+++)
+* [Chicken](https://esolangs.org/wiki/Chicken) (+++) 🍋
   - online: https://none-none1.github.io/Interpret-Esolangs-Online
 * [Javagony](https://esolangs.org/wiki/Javagony) (+) (Java, maar met gelimiteerde control-flow, is geldige standaard java code)
 * [Piet](https://esolangs.org/wiki/Piet) (+++++)
+
+_*het zou kunnen dat niet alle challenges met Shakespeare werken want de interpreter is een beetje shitty_
 
 <details>
   <summary>Vorige talen</summary>
