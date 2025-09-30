@@ -13,6 +13,8 @@ Stel, je naam is fred en je lost de eerste challenge op in BrainFuck, dan kan je
 
 Wil je je oplossingen in deze repo zetten? Fork de repo, zet je oplossing onder `2025/<challenge nr>/<jouw naam>.<file extension>`.
 
+_Challenges met een 🍅 kan je niet indienen (daar zijn geen tests voor :p)_
+
 ## Beginners
 
 ### 1. Print 'Zeus is de max!'
@@ -21,7 +23,7 @@ Wil je je oplossingen in deze repo zetten? Fork de repo, zet je oplossing onder 
 Zeus is de max!
 ```
 
-### 2. Print 'Zeus' in een loop
+### 2. Print 'Zeus' in een loop 🍅
 
 ```
 Zeus
@@ -78,7 +80,7 @@ Zeus
 (out) OK
 ```
 
-### 8. Geef voor een string de brainfuck code die deze string print
+### 8. Geef voor een string de brainfuck code die deze string print 🍅
 ```
 (in) Hi
 (out)
@@ -121,7 +123,7 @@ Dit programma print de eerste 10 lijnen van de input
 
 ## Mediocre
 
-### 10. Gok het juiste getal tussen 1 en 100
+### 10. Gok het juiste getal tussen 1 en 100 🍅
 
 ```
 (in) 50
@@ -145,7 +147,7 @@ Buzz
 ...
 ```
 
-### 12. Sorteer een lijst
+### 12. Sorteer een lijst 
 Sorteer een lijst met een algorithme naar keuze
 ```
 (in)
@@ -183,7 +185,7 @@ O
 ```
 
 
-### 13. Blad steen schaar bot
+### 13. Blad steen schaar bot 🍅
 |        | n |
 | ------ | - |
 | blad   | 1 |
@@ -216,15 +218,15 @@ ongebalanceerd:`(a[)bc]`
 (out) 1
 ```
 
-### 16. Schrijf een tic-tac-toe spel
+### 16. Schrijf een tic-tac-toe spel 🍅
 ### 17. Base64 encoder
 ```
 (in) Zeus WPI
 (out) WmV1cyBXUEk=
 ```
 
-### 18. Maak een brainfuck-interpreter in een andere esoterische taal
-### 19. Polygolot
+### 18. Maak een brainfuck-interpreter in een andere esoterische taal 🍅
+### 19. Polygolot 🍅
 Kies 2 esotherische talen naar keuze en 2 challenges naar keuze.
 Schrijf een programma dat geldig is in beide talen en ook beide challenges correct uitvoert.
 
