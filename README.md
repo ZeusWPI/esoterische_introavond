@@ -247,6 +247,7 @@ Schrijf een programma dat geldig is in beide talen en ook beide challenges corre
 * [Rockstar](https://esolangs.org/wiki/Rockstar) (++) 🍋
   - https://github.com/dylanbeattie/rockstar?tab=readme-ov-file#implementations
   - online: https://codewithrockstar.com/online
+  - **Geef je files een `.rock` extentie!**
 * [Chicken](https://esolangs.org/wiki/Chicken) (+++) 🍋
   - online: https://none-none1.github.io/Interpret-Esolangs-Online
 * [Javagony](https://esolangs.org/wiki/Javagony) (+) (Java, maar met gelimiteerde control-flow, is geldige standaard java code)
