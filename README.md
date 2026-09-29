@@ -250,8 +250,10 @@ Schrijf een programma dat geldig is in beide talen en ook beide challenges corre
   - https://github.com/dylanbeattie/rockstar?tab=readme-ov-file#implementations
   - online: https://codewithrockstar.com/online
   - **Geef je files een `.rock` extensie!**
-* [Chicken](https://esolangs.org/wiki/Chicken) (+++) 🍋
-  - online: https://none-none1.github.io/Interpret-Esolangs-Online
+* [Befunge](https://esolangs.org/wiki/Befunge) (++++)
+* [Airline Food](https://esolangs.org/wiki/Airline_Food) (+++)
+* [Regards](https://esolangs.org/wiki/Regards,) (++)
+* [Forte](https://esolangs.org/wiki/Forte) (++++)
 * [Javagony](https://esolangs.org/wiki/Javagony) (+) (Java, maar met gelimiteerde control-flow, is geldige standaard java code)
 * [Piet](https://esolangs.org/wiki/Piet) (+++++)
 
@@ -266,7 +268,6 @@ _*het zou kunnen dat niet alle challenges met Shakespeare werken want de interpr
   * Sd (moeilijker dan brainfuck)
     - Sd: (niet online): https://gist.github.com/urbanangel/7cd8ed849e6faa4e53434b384c4a09a8
   * JSFuck (++++)
-  * Befunge (++++)
   * Argh! (+++)
   * Functio (+++)
 
