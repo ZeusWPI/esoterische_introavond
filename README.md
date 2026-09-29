@@ -11,7 +11,7 @@ Stel, je naam is fred en je lost de eerste challenge op in BrainFuck, dan kan je
 
 [Instructies om op het scoreboard te komen](https://git.zeus.gent/ZeusWPI/challenge_scoreboard/src/branch/main/README.md)
 
-Wil je je oplossingen in deze repo zetten? Fork de repo, zet je oplossing onder `2025/<challenge nr>/<jouw naam>.<file extension>`.
+Wil je je oplossingen in deze repo zetten? Fork de repo, zet je oplossing onder `2026/<challenge nr>/<jouw naam>.<file extension>`.
 
 _Challenges met een 🍅 kan je niet indienen (daar zijn geen tests voor :p)_
 
