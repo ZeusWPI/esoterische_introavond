@@ -250,10 +250,10 @@ Schrijf een programma dat geldig is in beide talen en ook beide challenges corre
   - https://github.com/dylanbeattie/rockstar?tab=readme-ov-file#implementations
   - online: https://codewithrockstar.com/online
   - **Geef je files een `.rock` extensie!**
-* [Befunge](https://esolangs.org/wiki/Befunge) (++++)
-* [Airline Food](https://esolangs.org/wiki/Airline_Food) (+++)
-* [Regards](https://esolangs.org/wiki/Regards,) (++)
-* [Forte](https://esolangs.org/wiki/Forte) (++++)
+* [Befunge](https://esolangs.org/wiki/Befunge) (++++)🍋
+* [Airline Food](https://esolangs.org/wiki/Airline_Food) (+++)🍋
+* [Regards](https://esolangs.org/wiki/Regards,) (++)🍋
+* [Forte](https://esolangs.org/wiki/Forte) (++++)🍋
 * [Javagony](https://esolangs.org/wiki/Javagony) (+) (Java, maar met gelimiteerde control-flow, is geldige standaard java code)
 * [Piet](https://esolangs.org/wiki/Piet) (+++++)
 
